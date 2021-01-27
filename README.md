@@ -9,6 +9,7 @@ Working On Linux
 $ git clone https://github.com/faizganz14/revTOR/
 $ cd revTOR
 $ apt install tor
+$ pip3 install requests[socks]
 $ python3 rev.py
 ```
 <br>

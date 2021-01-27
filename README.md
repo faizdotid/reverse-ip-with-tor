@@ -1,10 +1,10 @@
-# revTOR
+## revTOR
 <pre>
 Reverse-IP with tor
 Working On Linux
 </pre>
 
-#HOW TO INSTALL IT
+## HOW TO INSTALL IT
 ```bash
 $ git clone https://github.com/faizganz14/revTOR/
 $ cd revTOR

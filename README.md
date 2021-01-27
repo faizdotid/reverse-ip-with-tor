@@ -3,7 +3,11 @@
 Reverse-IP with tor
 Working On Linux
 </pre>
-```
-This Tools Using Python3 and Tor
-root@faiz ~# apt install tor
+
+#HOW TO INSTALL IT
+```bash
+$ git clone https://github.com/faizganz14/revTOR/
+$ cd revTOR
+$ apt install tor
+$ python3 rev.py
 ```

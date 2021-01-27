@@ -11,3 +11,7 @@ $ cd revTOR
 $ apt install tor
 $ python3 rev.py
 ```
+<br>
+<pre>
+<img src="https://raw.githubusercontent.com/faizganz14/revTOR/main/Screenshot_20210127_122223.jpg" width="200px" height="500px">
+</pre>

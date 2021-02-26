@@ -46,6 +46,7 @@ def reverse_ip(targ):
                 save.close()
     except Exception as ex:
         print(Fore.RED+str(ex))
+        reverse_ip(targ)
 
 
 def reverse_ip2(targ):
@@ -66,6 +67,7 @@ def reverse_ip2(targ):
             reverse_ip2(targ)
     except Exception as ex:
         print(Fore.RED+str(ex))
+        reverse_ip2(targ)
 
 
 def rem_url(url):

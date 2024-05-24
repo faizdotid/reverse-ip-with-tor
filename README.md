@@ -1,4 +1,4 @@
-## revTOR
+## Reverse IP
 <pre>
 Reverse-IP with tor
 Working On Linux
@@ -6,7 +6,7 @@ Working On Linux
 
 ## HOW TO INSTALL IT
 ```bash
-$ git clone https://github.com/faizganz14/revTOR/
+$ git clone https://github.com/faizdotid/reverse-ip-with-tor
 $ cd revTOR
 $ apt install tor
 $ pip3 install requests[socks]
